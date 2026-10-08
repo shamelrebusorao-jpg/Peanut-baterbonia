@@ -4,7 +4,7 @@
 
 ```mermaid
 ---
-title: "Diagram 4 - Activity: Weekly allowance cycle, from setting the allowance to the parent summary"
+title: "Diagram 4 - Activity Diagram: Weekly allowance cycle, from setting the allowance to the parent summary"
 ---
 flowchart TB
   KEY["<b>Key:</b> Black circle = start &nbsp;|&nbsp; Ringed circle = end &nbsp;|&nbsp; Rectangle = action &nbsp;|&nbsp; Diamond = decision, edges carry [guards] &nbsp;|&nbsp; Each titled box (Student, System, Parent / Guardian) = one swimlane"]:::keyn
