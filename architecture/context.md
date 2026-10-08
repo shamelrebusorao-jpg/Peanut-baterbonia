@@ -1,6 +1,6 @@
 # Diagram 1: C4 System Context
 
-**System description:** the Allowance Tracker is drawn as one box; every arrow states what the sender is trying to do.
+**System description:** the Allowance Tracker is drawn to as one box; every arrow states what the sender is trying to do.
 
 ```mermaid
 ---
