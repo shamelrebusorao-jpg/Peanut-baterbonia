@@ -21,6 +21,7 @@ stateDiagram-v2
   end note
 ```
 
+
 **Primary audience:** Developers and testers
 
 **Risk it reduces:** Illegal status changes of an allowance period (e.g. reopening a Closed period).
