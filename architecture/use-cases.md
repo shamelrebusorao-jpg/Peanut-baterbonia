@@ -1,6 +1,6 @@
 # Diagram 3: Use case
 
-**Traceability to the MVP:** UC2 = log starting weekly allowance; UC3 + UC4 = quick flag for a *biglaang gastos*; UC5 + UC6 + UC7 = running "days left before the next padala" with a low-balance nudge; UC8 to UC10 = weekly summary for the parent (Experiment 2). UC1 supports all student goals.
+**Traceability to the MVP:** UC2 = log starting weekly allowances; UC3 + UC4 = quick flag for a *biglaang gastos*; UC5 + UC6 + UC7 = running "days left before the next padala" with a low-balance nudge; UC8 to UC10 = weekly summary for the parent (Experiment 2). UC1 supports all student goals.
 
 ```mermaid
 ---
