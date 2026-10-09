@@ -6,6 +6,7 @@
 ---
 title: "Diagram 6 - Class: Domain model of the Allowance Tracker MVP"
 ---
+
 classDiagram
   class Student {
     +UUID id
