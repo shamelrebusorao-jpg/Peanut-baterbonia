@@ -8,6 +8,7 @@ config:
   layout: elk
 title: "Diagram 10 - Deployment (Provisional): Allowance Tracker MVP"
 ---
+
 flowchart TB
   KEY["<b>Key:</b> Large box = «node» or «device» &nbsp;|&nbsp; Inner box = «execution environment» and its «artifact» &nbsp;|&nbsp; Arrow label = protocol &nbsp;|&nbsp; Provider names and addresses are not chosen yet &nbsp;|&nbsp; Secrets stay in the host's secret store"]:::keyn
   subgraph DEV1["«device» Student's phone or laptop"]
