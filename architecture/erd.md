@@ -6,6 +6,7 @@
 ---
 title: "Diagram 11 - ERD (draft): Allowance Tracker MVP"
 ---
+
 erDiagram
   STUDENT ||--o{ ALLOWANCE_PERIOD : sets
   ALLOWANCE_PERIOD ||--o{ EXPENSE : contains
