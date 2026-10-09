@@ -1,6 +1,6 @@
 # Diagram 5: Sequence
 
-**Why this flow:** it changes a status and calls an external system (SMS Gateway), and it depends on the riskiest assumption in our Javelin board (students logging expenses on the day they happen).
+**Why this flow:** it changes a status and calls an external system (SMS Gateway), and it depends on the riskiest assumption in our Javelin board (students logging expenses on the day that they happen).
 
 ```mermaid
 ---
