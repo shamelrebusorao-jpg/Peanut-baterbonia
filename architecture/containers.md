@@ -8,6 +8,7 @@ config:
   layout: elk
 title: "Diagram 2 - C4 Container: Allowance Tracker MVP (Peanut Baterbonia)"
 ---
+
 flowchart TB
   KEY["<b>Key:</b> Dark blue box = person &nbsp;|&nbsp; Light blue box = container (separately deployable) &nbsp;|&nbsp; Grey box = external system &nbsp;|&nbsp; Arrow label = intent [protocol]"]:::keyn
   student["<b>Student</b><br/>[Person]"]:::person
