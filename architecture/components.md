@@ -1,6 +1,6 @@
 # Diagram 9: UML component
 
-**Interfaces:** every external service (SMS Gateway, Messenger Send API) sits behind a port interface (`ISmsPort`, `IMessengerPort`) implemented by an adapter; services never call the vendors directly.
+**Interfaces:** every external services (SMS Gateway, Messenger Send API) sits behind a port interface (`ISmsPort`, `IMessengerPort`) implemented by an adapter; services never call the vendors directly.
 
 ```mermaid
 ---
