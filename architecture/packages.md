@@ -1,6 +1,6 @@
 # Diagram 8: Package
 
-**Layering rule:** Routes call services only, services depend on domain interfaces (ports) and never import adapters or the database client, and the web app and scheduler reach the API only over HTTPS, never by importing `apps/api` code.
+**Layering rule:** Routes call services only, services depend on domain interfaces (ports) and never imports adapters or the database client, and the web app and scheduler reach the API only over HTTPS, never by importing `apps/api` code.
 
 ```text
 apps/
